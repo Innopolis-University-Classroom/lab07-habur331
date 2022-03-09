@@ -3,7 +3,7 @@
 using namespace std;
 
 template<typename T>
-public class TipCalculator
+class TipCalculator
 {
 
 private:
